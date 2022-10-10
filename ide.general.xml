@@ -1,0 +1,9 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="browserPath" value="/Applications/Brave Browser.app/Contents/MacOS/Brave Browser" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
+    <option name="autoSaveFiles" value="false" />
+    <option name="showTipsOnStartup" value="false" />
+    <option name="useDefaultBrowser" value="false" />
+  </component>
+</application>
